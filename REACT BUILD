@@ -1,0 +1,10 @@
+Your task is to create a simple social media react app that uses Firebase to handle the back end operations. The app should have the following features:
+
+- User sign up/sign in: The app should allow users to create accounts and log in securely. User information should be stored on Firebase.
+- User Accounts: Users should be able to view their own profile, edit their profile information, and delete their account.
+- Posts: Users should be able to create posts, which are stored on Firebase. Posts should include a title, an image, and a text description.
+- Likes: Users should be able to like posts on the platform, and the total number of likes should be stored on Firebase.
+- Reposts: Users should be able to repost posts on the platform, and the total number of reposts should be stored on Firebase.
+- Comments: Users should be able to comment on posts, and comments should be stored on Firebase. Users should be able to view comments and delete their own comments.
+
+Please provide clear and well-documented code that uses best practices for security, scalability, and readability. Additionally, please provide clear instructions on how to run and use the app.
